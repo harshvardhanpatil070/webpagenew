@@ -1,0 +1,14 @@
+{
+    "name": "onlineapp",
+    "version": "6.9.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Harshvardhan patil & Ashish Sharma",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
