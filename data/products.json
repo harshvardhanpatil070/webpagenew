@@ -1,0 +1,10 @@
+[
+    {"id":1,"title":"HARRY POTTER AND THE PHILOSOPHERS STONE", "description":"IMDB RATING :8.8/10", "unitprice":500, "quantity":2300, "imageurl":"/images/h1.jpg"},
+    {"id":2,"title":"HARRY POTTER AND THE CHAMBER OF SECRETS", "description":"IMDB RATING :9.2/10", "unitprice":600, "quantity":2100,"imageurl":"/images/h2.jpg"},
+    {"id":3,"title":"HARRY POTTER AND THE PRISONER OF AZKABAN", "description":"IMDB RATING :7.8/10",  "unitprice":700,"quantity":1800,"imageurl":"/images/h3.jpg"},
+    {"id":4,"title":"HARRY POTTER AND THE GOBLET OF FIRE", "description":"IMDB RATING :8.2/10", "unitprice":800, "quantity":2300,"imageurl":"/images/h4.jpg"},
+    {"id":5,"title":"HARRY POTTER AND THE ORDER OF THE PHOENIX", "description":"IMDB RATING :7.9/10", "unitprice":899, "quantity":5000,"imageurl":"/images/h5.jpg"},
+    {"id":6,"title":"HARRY POTTER AND THE HALF-BLOOD PRINCE", "description":"IMDB RATING :8.6/10", "unitprice":999, "quantity":7000,"imageurl":"/images/h6.jpg"},
+    {"id":7,"title":"HARRY POTTER AND THE DEATHLY HALLOWS part 1", "description":"IMDB RATING :9.1/10", "unitprice":1099, "quantity":3500,"imageurl":"/images/h7.jpg"},
+    {"id":8,"title":"HARRY POTTER AND THE DEATHLY HALLOWS part 2", "description":"IMDB RATING :7.8/10", "unitprice":1999, "quantity":4200,"imageurl":"/images/h8.jpg"}
+]
